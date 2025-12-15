@@ -1,4 +1,4 @@
-<h1 align="center">Cyriac Mirkovik</h1>
+<h1 align="center">cycy</h1>
 <h3 align="center">Web3 Developer · Solidity & Finance Enthusiast</h3>
 
 <p align="center">
