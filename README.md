@@ -48,11 +48,11 @@ I’m passionate about building decentralized systems that solve real problems a
 
 ### 🕹️ ARKAD – Web3 Gaming + DeFi Platform  
 Co-founder of ARKAD, a skill-based gaming platform combining decentralized finance mechanics with gaming experiences.  
-(Branding, tools, product strategy, DeFi integration) :contentReference[oaicite:1]{index=1}
+(Branding, tools, product strategy, DeFi integration) 
 
 ### 🏆 PSG Fan Token (Hackathon Finalist)  
 Finalist project for **Chiliz x PSG**, designing a fan engagement tokenization concept.  
-Concept focused on tokenomics and real use cases in fan incentives. :contentReference[oaicite:2]{index=2}
+Concept focused on tokenomics and real use cases in fan incentives.
 
 ### 📊 DeFi & Blockchain Simulations  
 Standalone tools / experiments for modeling DeFi strategies, yield dynamics, and protocol interactions.
@@ -63,9 +63,9 @@ Standalone tools / experiments for modeling DeFi strategies, yield dynamics, and
 
 ## 💼 Professional Experience
 
-- **Crypto Analyst @ FGES Transaction** – Market research, portfolio management, Web3 trends. :contentReference[oaicite:3]{index=3}  
-- **Corporate Banking Intern @ CIC Nord-Ouest** – Financial analysis & client work. :contentReference[oaicite:4]{index=4}  
-- Assistant roles in management & operations. :contentReference[oaicite:5]{index=5}
+- **Crypto Analyst @ FGES Transaction** – Market research, portfolio management, Web3 trends. 
+- **Corporate Banking Intern @ CIC Nord-Ouest** – Financial analysis & client work. 
+- Assistant roles in management & operations. 
 
 ---
 
