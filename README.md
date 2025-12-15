@@ -21,7 +21,7 @@ I’m a Web3 & Finance developer currently completing a **Bachelor in Economics 
 - Solidity smart contract development
 - Frontend & backend web apps
 
-I’m passionate about building decentralized systems that solve real problems and bridge finance with technology. :contentReference[oaicite:0]{index=0}
+I’m passionate about building decentralized systems that solve real problems and bridge finance with technology. 
 
 ---
 
