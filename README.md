@@ -13,7 +13,7 @@ Building real Web3 products, DeFi tools and finance-driven applications.
 
 ---
 
-## 🧠 About Me
+## - About Me
 
 I’m a Web3 & Finance developer currently completing a **Bachelor in Economics & Finance** with experience in:
 - DeFi research & crypto portfolio analysis
@@ -25,7 +25,7 @@ I’m passionate about building decentralized systems that solve real problems a
 
 ---
 
-## 🛠️ Tech Stack
+## - Tech Stack
 
 **Frontend**
 - TypeScript  
@@ -44,7 +44,7 @@ I’m passionate about building decentralized systems that solve real problems a
 
 ---
 
-## 🚀 Featured Projects
+## - Featured Projects
 
 ### 🕹️ ARKAD – Web3 Gaming + DeFi Platform  
 Co-founder of ARKAD, a skill-based gaming platform combining decentralized finance mechanics with gaming experiences.  
@@ -61,7 +61,7 @@ Standalone tools / experiments for modeling DeFi strategies, yield dynamics, and
 
 ---
 
-## 💼 Professional Experience
+## - Professional Experience
 
 - **Crypto Analyst @ FGES Transaction** – Market research, portfolio management, Web3 trends. 
 - **Corporate Banking Intern @ CIC Nord-Ouest** – Financial analysis & client work. 
@@ -69,7 +69,7 @@ Standalone tools / experiments for modeling DeFi strategies, yield dynamics, and
 
 ---
 
-## 📈 What I Focus On
+## - What I Focus On
 
 - Clean, maintainable code  
 - Building products (not just experiments)  
@@ -78,4 +78,6 @@ Standalone tools / experiments for modeling DeFi strategies, yield dynamics, and
 
 ---
 
-Thank you for visiting my profile!
+<p align="center">
+  <img src="https://tenor.com/eq3NQmY0p6U.gif" width="400" />
+</p>
