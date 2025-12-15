@@ -10,7 +10,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Web3%20Builder&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 **Building at the intersection of blockchain, DeFi & gaming**  
-Co-founder [@ARKAD](https://github.com/cycyparis) • Economics & Finance Student • ETHGlobal Hacker
+Co-founder [@ARKAD](https://github.com/cycyparis) • Economics & Finance Student
 
 </div>
 
