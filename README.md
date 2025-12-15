@@ -1,84 +1,51 @@
-<h1 align="center">cycy</h1>
-<h3 align="center">Web3 Developer · Solidity & Finance Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-Building real Web3 products, DeFi tools and finance-driven applications.
-</p>
+# Hi 👋
 
-<p align="center">
-  <a href="mailto:cyriac.mirkovik@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/cyriac-mirkovik-27ba8b172/">LinkedIn</a> •
-  <a href="https://www.cm-portfolio.xyz/">Portfolio</a>
-</p>
+[![Follow me](https://img.shields.io/github/followers/cycyparis?label=Follow&style=social)](https://github.com/cycyparis)
+[![Email Me](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:cyriac.mirkovik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cyriac-mirkovik/)
+[![Portfolio](https://img.shields.io/badge/My-Portfolio-orange?style=flat&logo=firefox)](https://www.cm-portfolio.xyz/)
 
----
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Web3%20Builder&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-## - About Me
-
-I’m a Web3 & Finance developer currently completing a **Bachelor in Economics & Finance** with experience in:
-- DeFi research & crypto portfolio analysis
-- Blockchain product strategy
-- Solidity smart contract development
-- Frontend & backend web apps
-
-I’m passionate about building decentralized systems that solve real problems and bridge finance with technology. 
+</div>
 
 ---
 
-## - Tech Stack
+## When I code, I rely on
 
-**Frontend**
-- TypeScript  
-- React / Next.js  
-- HTML / CSS / Tailwind
-
-**Blockchain**
-- Solidity  
-- Hardhat / Remix  
-- Ethers.js / Web3.js  
-- ERC20 / ERC721 development
-
-**Dev Tools**
-- Git & GitHub  
-- VS Code
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## - Featured Projects
+## Github stats
 
-### 🕹️ ARKAD – Web3 Gaming + DeFi Platform  
-Co-founder of ARKAD, a skill-based gaming platform combining decentralized finance mechanics with gaming experiences.  
-(Branding, tools, product strategy, DeFi integration) 
+<div align="center">
 
-### 🏆 PSG Fan Token (Hackathon Finalist)  
-Finalist project for **Chiliz x PSG**, designing a fan engagement tokenization concept.  
-Concept focused on tokenomics and real use cases in fan incentives.
+![](https://github-readme-stats.vercel.app/api?username=cycyparis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-### 📊 DeFi & Blockchain Simulations  
-Standalone tools / experiments for modeling DeFi strategies, yield dynamics, and protocol interactions.
+![](https://github-readme-streak-stats.herokuapp.com/?user=cycyparis&theme=tokyonight&hide_border=true)
 
-*📌 Link to these projects available in your pinned repositories.*
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cycyparis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
-## - Professional Experience
+<div align="center">
 
-- **Crypto Analyst @ FGES Transaction** – Market research, portfolio management, Web3 trends. 
-- **Corporate Banking Intern @ CIC Nord-Ouest** – Financial analysis & client work. 
-- Assistant roles in management & operations. 
+![](https://komarev.com/ghpvc/?username=cycyparis&color=blueviolet&style=flat-square)
 
----
-
-## - What I Focus On
-
-- Clean, maintainable code  
-- Building products (not just experiments)  
-- Finance-oriented Web3 development  
-- Growth through real use cases and impact
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/McPQygGOuXYAAAAi/gladgers-hacker-gers-guardians-of-galaxy.gif" width="350" />
-</p>
-
+</div>
