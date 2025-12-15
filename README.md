@@ -79,5 +79,6 @@ Standalone tools / experiments for modeling DeFi strategies, yield dynamics, and
 ---
 
 <p align="center">
-  <img src="https://tenor.com/eq3NQmY0p6U.gif" width="400" />
+  <img src="https://media.tenor.com/McPQygGOuXYAAAAi/gladgers-hacker-gers-guardians-of-galaxy.gif" width="350" />
 </p>
+
