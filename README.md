@@ -33,15 +33,6 @@ Co-founder [@ARKAD](https://github.com/cycyparis) • Economics & Finance Studen
 
 ---
 
-## Current Focus
-
-🎮 **Building ARKAD** - Skill-based Web3 gaming with real ETH betting  
-🏆 **Shipping for ETHGlobal NY** - Innovation in DeFi protocols  
-📚 **Learning** - Advanced smart contract patterns & Layer 2 solutions  
-💼 **Working** - Crypto Analyst @ FGES Transaction
-
----
-
 ## Most Used Languages
 
 <div align="center">
@@ -58,10 +49,10 @@ Co-founder [@ARKAD](https://github.com/cycyparis) • Economics & Finance Studen
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎮 **ARKAD Platform** | Real-time multiplayer gaming with ETH betting | Next.js, Socket.io, Solidity |
-| 🏆 **12th MAN** | Chiliz x PSG Hackathon | React, TypeScript, ERC-20 |
-| 📊 **DeFi Analytics** | Portfolio tracking & yield optimization tools | Python, Pandas, Web3.py |
-| 🔗 **Smart Contracts** | NFT marketplace, staking, token swap protocols | Solidity, Hardhat, Ethers.js |
+| **ARKAD Platform** | Real-time multiplayer gaming with ETH betting | Next.js, Socket.io, Solidity |
+| **12th MAN** | Chiliz x PSG Hackathon | React, TypeScript, ERC-20 |
+| **DeFi Analytics** | Portfolio tracking & yield optimization tools | Python, Pandas, Web3.py |
+| **Smart Contracts** | NFT marketplace, staking, token swap protocols | Solidity, Hardhat, Ethers.js |
 
 </div>
 
